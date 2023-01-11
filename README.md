@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend & Backend development**
 
-- 💬 Ask me about **Python, C, Javascript, Html, Css**
+- 💬 Ask me about **Python, C, Javascript, Golang**
 
 - 📫 How to reach me **samuelonoh12345@gmail.com**
 
